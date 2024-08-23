@@ -1,174 +1,538 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1093/nar/gkad1082
-  title: "The Monarch Initiative in 2024: an analytic platform integrating phenotypes,\
-    \ genes\_and diseases across species"
+- id: doi:10.3390/foods13152411
+  title: Nitrogen Gas-Assisted Extrusion for Improving the Physical Quality of Pea
+    Protein-Enriched Corn Puffs with a Wide Range of Protein Contents
   authors:
-  - Tim E Putman
-  - Kevin Schaper
-  - Nicolas Matentzoglu
-  - "Vincent\_P Rubinetti"
-  - "Faisal\_S Alquaddoomi"
-  - Corey Cox
-  - J Harry Caufield
-  - Glass Elsarboukh
-  - Sarah Gehrke
-  - Harshad Hegde
-  - "Justin\_T Reese"
-  - Ian Braun
-  - "Richard\_M Bruskiewich"
-  - Luca Cappelletti
-  - Seth Carbon
-  - "Anita\_R Caron"
-  - "Lauren\_E Chan"
-  - "Christopher\_G Chute"
-  - "Katherina\_G Cortes"
-  - "Vin\xEDcius De\_Souza"
-  - Tommaso Fontana
-  - "Nomi\_L Harris"
-  - "Emily\_L Hartley"
-  - Eric Hurwitz
-  - "Julius\_O B Jacobsen"
-  - Madan Krishnamurthy
-  - "Bryan\_J Laraway"
-  - "James\_A McLaughlin"
-  - "Julie\_A McMurry"
-  - "Sierra\_A T Moxon"
-  - "Kathleen\_R Mullen"
-  - "Shawn\_T O\u2019Neil"
-  - "Kent\_A Shefchek"
-  - Ray Stefancsik
-  - Sabrina Toro
-  - "Nicole\_A Vasilevsky"
-  - "Ramona\_L Walls"
-  - "Patricia\_L Whetzel"
-  - David Osumi-Sutherland
-  - Damian Smedley
-  - "Peter\_N Robinson"
-  - "Christopher\_J Mungall"
-  - "Melissa\_A Haendel"
-  - "Monica\_C Munoz-Torres"
-  publisher: Nucleic Acids Research
-  date: '2023-11-24'
-  link: https://doi.org/gs6kmr
-  orcid: 0000-0002-4655-3773
+  - Siwen Luo
+  - Jitendra Paliwal
+  - Filiz Koksel
+  publisher: Foods
+  date: '2024-07-30'
+  link: https://doi.org/gt7qr2
+  orcid: 0000-0002-6277-4314
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.10.11.560955
-  title: Integration of 168,000 samples reveals global patterns of the human gut microbiome
+- id: doi:10.1002/cche.10786
+  title: 'Incorporation of intermediate wheatgrass (<i>Thinopyrum intermedium</i>)
+    into bread wheat doughs: Effects on pasting and rheological properties'
   authors:
-  - Richard J. Abdill
-  - Samantha P. Graham
-  - Vincent Rubinetti
-  - Frank W. Albert
-  - Casey S. Greene
-  - Sean Davis
-  - Ran Blekhman
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-10-11'
-  link: https://doi.org/gsvf5z
-  orcid: 0000-0002-4655-3773
+  - Susane Trevisan
+  - Filiz Koksel
+  - Buket Cetiner
+  - Vladimir P. Shamanin
+  - Inna V. Pototskaya
+  - Bayram Ozdemir
+  - Alexey I. Morgounov
+  - Hamit Koksel
+  publisher: Cereal Chemistry
+  date: '2024-04-02'
+  link: https://doi.org/gt7qr3
+  orcid: 0000-0002-6277-4314
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
+- id: doi:10.1111/ijfs.17134
+  title: "Incorporation of brewer's spent grain into plant\u2010based meat analogues:\
+    \ benefits to physical and nutritional quality"
   authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
-  publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
+  - Aurenice Maria Mota da Silva
+  - Mariah Almeida Lima
+  - Filiz Koksel
+  - Ana Carla Kawazoe Sato
+  publisher: International Journal of Food Science &amp; Technology
+  date: '2024-04-12'
+  link: https://doi.org/gt7qr4
+  orcid: 0000-0002-6277-4314
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
+- id: doi:10.1111/ijfs.16943
+  title: "Effects of dietary fibre source and content and extrusion conditions on\
+    \ the physicochemical composition and physical quality of fibre\u2010enriched\
+    \ lentil snacks"
   authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
+  - Nasibeh Y. Sinaki
+  - Filiz Koksel
+  publisher: International Journal of Food Science &amp; Technology
+  date: '2024-02-01'
+  link: https://doi.org/gt7qr5
+  orcid: 0000-0002-6277-4314
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/gigascience/giad047
-  title: Hetnet connectivity search provides rapid insights into how biomedical entities
-    are related
+- id: doi:10.1111/1750-3841.16991
+  title: "Effects of extrusion screw speed, feed moisture content, and barrel temperature\
+    \ on the physical, techno\u2010functional, and microstructural quality of texturized\
+    \ lentil protein"
   authors:
-  - Daniel S Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N Nicholson
-  - Yun Hao
-  - Blair D Sullivan
-  - Michael W Nagle
-  - Casey S Greene
-  publisher: GigaScience
-  date: '2022-12-28'
-  link: https://doi.org/gsd85n
-  orcid: 0000-0002-4655-3773
+  - Ravinder Singh
+  - Maria Guerrero
+  - Michael T. Nickerson
+  - Filiz Koksel
+  publisher: Journal of Food Science
+  date: '2024-02-23'
+  link: https://doi.org/gt7qr6
+  orcid: 0000-0002-6277-4314
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2022.02.18.461833
-  title: 'MolEvolvR: A web-app for characterizing proteins using molecular evolution
-    and phylogeny'
+- id: doi:10.1111/ijfs.16856
+  title: "Impact of protein blend formulation and extrusion conditions on the physical\
+    \ properties of texturised pea protein\u2010extended beef burgers"
   authors:
-  - Jacob D Krol
-  - Joseph T Burke
-  - Samuel Z Chen
-  - Lo M Sosinski
-  - Faisal S Alquaddoomi
-  - Evan P Brenner
-  - Ethan P Wolfe
-  - Vincent P Rubinetti
-  - Shaddai Amolitos
-  - Kellen M Reason
-  - John B Johnston
-  - Janani Ravi
-  publisher: Cold Spring Harbor Laboratory
-  date: '2022-02-22'
-  link: https://doi.org/gstx7j
-  orcid: 0000-0002-4655-3773
+  - Elyssa Chan
+  - Nasibe Y. Sinaki
+  - "Argenis Rodas\u2010Gonz\xE1lez"
+  - Mehmet Tulbek
+  - Filiz Koksel
+  publisher: International Journal of Food Science &amp; Technology
+  date: '2023-12-14'
+  link: https://doi.org/gt7qr7
+  orcid: 0000-0002-6277-4314
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
+- id: doi:10.1111/ijfs.16593
+  title: "Effects of protein formula and extrusion cooking conditions on the techno\u2010\
+    functional properties of texturised pea proteins"
   authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
+  - Elyssa Chan
+  - "Argenis Rodas\u2010Gonzalez"
+  - Mehmet Tulbek
+  - Filiz Koksel
+  publisher: International Journal of Food Science &amp; Technology
+  date: '2023-07-31'
+  link: https://doi.org/gt7qr8
+  orcid: 0000-0002-6277-4314
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1080/87559129.2023.2279613
+  title: Ingredient Technologies and Process Modifications for Increasing the Use
+    of Ancient Grains in Bakery Applications
+  authors:
+  - Anashwar Valsalan
+  - Filiz Koksel
+  - Cristina M. Rosell
+  - Maneka Malalgoda
+  publisher: Food Reviews International
+  date: '2023-11-23'
+  link: https://doi.org/gt7qr9
+  orcid: 0000-0002-6277-4314
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s11694-023-01985-7
+  title: Effects of extrusion cooking on the nutritional quality of puffed snacks
+    made from blends of barley and green lentil flours
+  authors:
+  - Xiang Li
+  - Adam Franczyk
+  - Kevser Kahraman
+  - James D. House
+  - Filiz Koksel
+  publisher: Journal of Food Measurement and Characterization
+  date: '2023-06-02'
+  link: https://doi.org/gt7qsb
+  orcid: 0000-0002-6277-4314
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/cche.10699
+  title: "The entrainment and evolution of gas bubbles in bread dough\u2014A review"
+  authors:
+  - Xinyang Sun
+  - Martin G. Scanlon
+  - Michael T. Nickerson
+  - Filiz Koksel
+  publisher: Cereal Chemistry
+  date: '2023-07-31'
+  link: https://doi.org/gt7qsc
+  orcid: 0000-0002-6277-4314
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/foods12112109
+  title: Utilization of Intermediate Wheatgrass (Thinopyrum intermedium) as an Innovative
+    Ingredient in Bread Making
+  authors:
+  - Buket Cetiner
+  - Vladimir P. Shamanin
+  - Zeynep H. Tekin-Cakmak
+  - Inna V. Pototskaya
+  - Filiz Koksel
+  - Sergey S. Shepelev
+  - Amanzhol N. Aydarov
+  - Bayram Ozdemir
+  - Alexey I. Morgounov
+  - Hamit Koksel
+  publisher: Foods
+  date: '2023-05-24'
+  link: https://doi.org/gt7qsd
+  orcid: 0000-0002-6277-4314
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.tifs.2023.01.012
+  title: 'Application of physical blowing agents in extrusion cooking of protein enriched
+    snacks: Effects on product expansion, microstructure, and texture'
+  authors:
+  - Siwen Luo
+  - Filiz Koksel
+  publisher: Trends in Food Science &amp; Technology
+  date: '2023-03-01'
+  link: https://doi.org/gsbdb8
+  orcid: 0000-0002-6277-4314
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/foods12040889
+  title: Enhancing the Techno-Functionality of Pea Flour by Air Injection-Assisted
+    Extrusion at Different Temperatures and Flour Particle Sizes
+  authors:
+  - Nasibeh Y. Sinaki
+  - Jitendra Paliwal
+  - Filiz Koksel
+  publisher: Foods
+  date: '2023-02-19'
+  link: https://doi.org/gr2sv9
+  orcid: 0000-0002-6277-4314
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/foods11213447
+  title: Butterfly Pea Flower as a Novel Ingredient to Produce Antioxidant-Enriched
+    Yellow Pea-Based Breakfast Cereals
+  authors:
+  - Ravinder Singh
+  - Cheng-Chia Yu
+  - Guan-Wei Chen
+  - Ching-Hsueh Chen
+  - Nasibeh Y. Sinaki
+  - Jenshinn Lin
+  - Filiz Koksel
+  publisher: Foods
+  date: '2022-10-30'
+  link: https://doi.org/gt7qsf
+  orcid: 0000-0002-6277-4314
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/cche.10574
+  title: Physical and microstructural quality of extruded snacks made from blends
+    of barley and green lentil flours
+  authors:
+  - Xiang Li
+  - "Reine\u2010Marie Guillermic"
+  - Mohammad Nadimi
+  - Jitendra Paliwal
+  - Filiz Koksel
+  publisher: Cereal Chemistry
+  date: '2022-06-14'
+  link: https://doi.org/gt7qsg
+  orcid: 0000-0002-6277-4314
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/cche.10561
+  title: 'Effects of water, salt, and mixing on the rheological properties of bread
+    dough at large and small deformations: A review'
+  authors:
+  - Xinyang Sun
+  - Filiz Koksel
+  - Martin G. Scanlon
+  - Michael T. Nickerson
+  publisher: Cereal Chemistry
+  date: '2022-05-16'
+  link: https://doi.org/gt7qsh
+  orcid: 0000-0002-6277-4314
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.jcs.2021.103410
+  title: Exploring the influence of weather on gluten strength of hard red spring
+    wheat (Triticum aestivum L.) on the Canadian Prairies
+  authors:
+  - Manasah Mkhabela
+  - Paul Bullock
+  - Harry Sapirstein
+  - Janelle Courcelles
+  - Soleiman Abbasi
+  - Filiz Koksel
+  publisher: Journal of Cereal Science
+  date: '2022-03-01'
+  link: https://doi.org/gt7qsj
+  orcid: 0000-0002-6277-4314
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/foods11010038
+  title: 'Development of Cellular High-Protein Foods: Third-Generation Yellow Pea
+    and Red Lentil Puffed Snacks'
+  authors:
+  - Nasibeh Y. Sinaki
+  - Mustafa Tugrul Masatcioglu
+  - Jitendra Paliwal
+  - Filiz Koksel
+  publisher: Foods
+  date: '2021-12-24'
+  link: https://doi.org/gt7qsk
+  orcid: 0000-0002-6277-4314
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.lwt.2021.112321
+  title: Effects of particle size distribution and processing conditions on the techno-functional
+    properties of extruded soybean meal
+  authors:
+  - Ravinder Singh
+  - Filiz Koksel
+  publisher: LWT
+  date: '2021-12-01'
+  link: https://doi.org/gnzbxc
+  orcid: 0000-0002-6277-4314
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/jfpp.15797
+  title: "Oxidizing agent\u2010assisted extrusion cooking of yellow peas and the techno\u2010\
+    functionality of the resulting extrudate flours"
+  authors:
+  - Nasibeh Y. Sinaki
+  - Mehmet Tulbek
+  - Filiz Koksel
+  publisher: Journal of Food Processing and Preservation
+  date: '2021-08-10'
+  link: https://doi.org/gt7qsm
+  orcid: 0000-0002-6277-4314
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/cche.10347
+  title: Processing and quality aspects of bulgur from <i>Triticum durum</i>
+  authors:
+  - Andrea K. Stone
+  - Shuyang Wang
+  - Mehmet Tulbek
+  - Filiz Koksel
+  - Michael T. Nickerson
+  publisher: Cereal Chemistry
+  date: '2020-09-29'
+  link: https://doi.org/grh5gf
+  orcid: 0000-0002-6277-4314
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/1750-3841.15385
+  title: Physical and technofunctional properties of yellow pea flour and bread crumb
+    mixtures processed with low moisture extrusion cooking
+  authors:
+  - Siwen Luo
+  - Filiz Koksel
+  publisher: Journal of Food Science
+  date: '2020-08-27'
+  link: https://doi.org/gt7qsn
+  orcid: 0000-0002-6277-4314
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/jsfa.9964
+  title: Functional and thermal properties of yellow pea and red lentil extrudates
+    produced by nitrogen gas injection assisted extrusion cooking
+  authors:
+  - Mustafa Tugrul Masatcioglu
+  - Filiz Koksel
+  publisher: Journal of the Science of Food and Agriculture
+  date: '2019-09-18'
+  link: https://doi.org/gt7qsp
+  orcid: 0000-0002-6277-4314
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/jfpe.12989
+  title: Effects of different blowing agents on physical properties of extruded puffed
+    snacks made from yellow pea and red lentil flours
+  authors:
+  - Elyssa Chan
+  - Tugrul M. Masatcioglu
+  - Filiz Koksel
+  publisher: Journal of Food Process Engineering
+  date: '2019-01-13'
+  link: https://doi.org/gt7qsq
+  orcid: 0000-0002-6277-4314
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.lwt.2018.04.011
+  title: Physical properties of puffed yellow pea snacks produced by nitrogen gas
+    assisted extrusion cooking
+  authors:
+  - Filiz Koksel
+  - M. Tugrul Masatcioglu
+  publisher: LWT
+  date: '2018-07-01'
+  link: https://doi.org/gdn449
+  orcid: 0000-0002-6277-4314
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.jcs.2018.01.012
+  title: A study of factors influencing the water absorption capacity of Canadian
+    hard red winter wheat flour
+  authors:
+  - Harry Sapirstein
+  - Yao Wu
+  - Filiz Koksel
+  - Robert Graf
+  publisher: Journal of Cereal Science
+  date: '2018-05-01'
+  link: https://doi.org/gdt3xd
+  orcid: 0000-0002-6277-4314
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.foodres.2017.11.050
+  title: 'Bubbles in noodle dough: Characterization by X-ray microtomography'
+  authors:
+  - R.-M. Guillermic
+  - F. Koksel
+  - X. Sun
+  - D.W. Hatcher
+  - M.T. Nickerson
+  - G.S. Belev
+  - M.A. Webb
+  - J.H. Page
+  - M.G. Scanlon
+  publisher: Food Research International
+  date: '2018-03-01'
+  link: https://doi.org/gc5dgg
+  orcid: 0000-0002-6277-4314
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.jcs.2017.10.002
+  title: Investigation of the influence of bakery enzymes on non-yeasted dough properties
+    during mixing
+  authors:
+  - Filiz Koksel
+  - Martin G. Scanlon
+  publisher: Journal of Cereal Science
+  date: '2018-01-01'
+  link: https://doi.org/gc554p
+  orcid: 0000-0002-6277-4314
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.jcs.2017.06.022
+  title: The use of synchrotron X-rays and ultrasonics for investigating the bubble
+    size distribution and its evolution in bread dough
+  authors:
+  - Filiz Koksel
+  - Anatoliy Strybulevych
+  - Serdar Aritan
+  - John H. Page
+  - Martin G. Scanlon
+  publisher: Journal of Cereal Science
+  date: '2017-11-01'
+  link: https://doi.org/gcqg6j
+  orcid: 0000-0002-6277-4314
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.jfoodeng.2017.01.027
+  title: Ultrasonic investigation of the effects of composition on the volume fraction
+    of bubbles and changes in their relative sizes in non-yeasted gluten-starch blend
+    doughs
+  authors:
+  - Filiz Koksel
+  - Anatoliy Strybulevych
+  - John H. Page
+  - Martin G. Scanlon
+  publisher: Journal of Food Engineering
+  date: '2017-07-01'
+  link: https://doi.org/gqvf6n
+  orcid: 0000-0002-6277-4314
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.foodres.2016.09.015
+  title: 'Ultrasound as a tool to study bubbles in dough and dough mechanical properties:
+    A review'
+  authors:
+  - Filiz Koksel
+  - Martin G. Scanlon
+  - John H. Page
+  publisher: Food Research International
+  date: '2016-11-01'
+  link: https://doi.org/f9df3b
+  orcid: 0000-0002-6277-4314
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.foodres.2015.12.005
+  title: The bubble size distribution and its evolution in non-yeasted wheat flour
+    doughs investigated by synchrotron X-ray microtomography
+  authors:
+  - Filiz Koksel
+  - Serdar Aritan
+  - Anatoliy Strybulevych
+  - John H. Page
+  - Martin G. Scanlon
+  publisher: Food Research International
+  date: '2016-02-01'
+  link: https://doi.org/f79ppw
+  orcid: 0000-0002-6277-4314
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-319-24735-9_5
+  title: Kinetics of Bubble Growth in Bread Dough and Crust Formation
+  authors:
+  - Filiz Koksel
+  - Martin G. Scanlon
+  publisher: Food Engineering Series
+  date: '2016-01-01'
+  link: https://doi.org/gt7qsr
+  orcid: 0000-0002-6277-4314
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1094/cfw-60-6-0274
+  title: 'The Future of Grain Science: Grain Science in Canada: A National Priority'
+  authors:
+  - "Filiz K\xF6ksel"
+  - Michael T. Nickerson
+  - Martin G. Scanlon
+  publisher: Cereal Foods World
+  date: '2015-11-01'
+  link: https://doi.org/gt7qss
+  orcid: 0000-0002-6277-4314
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1094/cchem-10-13-0206-cesi
+  title: Ultrasonic Characterization of Unyeasted Bread Dough of Different Sodium
+    Chloride Concentrations
+  authors:
+  - Filiz Koksel
+  - Anatoliy Strybulevych
+  - John H. Page
+  - Martin G. Scanlon
+  publisher: Cereal Chemistry
+  date: '2014-07-01'
+  link: https://doi.org/gt7qst
+  orcid: 0000-0002-6277-4314
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1088/1757-899x/42/1/012037
+  title: Use of an ultrasonic reflectance technique to examine bubble size changes
+    in dough
+  authors:
+  - A Strybulevych
+  - V Leroy
+  - A L Shum
+  - H F Koksel
+  - M G Scanlon
+  - J H Page
+  publisher: 'IOP Conference Series: Materials Science and Engineering'
+  date: '2012-12-10'
+  link: https://doi.org/gt7qsv
+  orcid: 0000-0002-6277-4314
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.jcs.2012.05.013
+  title: Effects of composition on dough development and air entrainment in doughs
+    made from gluten-starch blends
+  authors:
+  - F. Koksel
+  - M.G. Scanlon
+  publisher: Journal of Cereal Science
+  date: '2012-09-01'
+  link: https://doi.org/f4d8qc
+  orcid: 0000-0002-6277-4314
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/j.1365-2621.2009.02107.x
+  title: "The effects of xanthan and guar gums on staling of gluten\u2010free rice\
+    \ cakes baked in different ovens"
+  authors:
+  - Gulum Sumnu
+  - Filiz Koksel
+  - Serpil Sahin
+  - Arzu Basman
+  - Venkatesh Meda
+  publisher: International Journal of Food Science &amp; Technology
+  date: '2009-12-11'
+  link: https://doi.org/dk4qjt
+  orcid: 0000-0002-6277-4314
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pcbi.1007128
@@ -184,9 +548,6 @@
   publisher: PLOS Computational Biology
   date: '2020-12-04'
   link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
-  plugin: sources.py
-  file: sources.yaml
   type: paper
   description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
     do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -203,21 +564,8 @@
   - open science
   - collaboration
   repo: greenelab/meta-review
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.csbj.2020.05.017
   title: Constructing knowledge graphs and their biomedical applications
   authors:
