@@ -7,7 +7,7 @@ nav:
 
 # Our Research
 
-Our research
+Our research centers on food processing using innovative techniques. Explore our key projects and published papers here.
 
 {% include section.html %}
 
