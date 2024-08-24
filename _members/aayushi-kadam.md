@@ -9,7 +9,7 @@ aliases:
   - Aayushi Deepak Kadam
 links:
   orcid: 0000-0001-6684-399X
-  linkedin: aayushi-kadam-phd-72548716
   email: aayushi.kadam@umanitoba.ca
+  linkedin: aayushi-kadam-phd-72548716
 ---
 
