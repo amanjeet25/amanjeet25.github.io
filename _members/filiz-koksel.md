@@ -1,6 +1,6 @@
 ---
 name: Dr. Filiz Koksel
-image: immages/team/FK.jpg
+image: images/team/FK.jpg
 role: pi
 affiliation: University of Manitoba
 aliases:
