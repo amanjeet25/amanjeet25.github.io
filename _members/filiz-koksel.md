@@ -5,6 +5,8 @@ role: pi
 affiliation: University of Manitoba
 aliases:
   - F. Koksel
+  - Filiz Koksel
+  - Koksel
 
 links:
   home-page: https://umanitoba.ca/agricultural-food-sciences/food-and-human-nutritional-sciences/filiz-koksel
