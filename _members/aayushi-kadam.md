@@ -1,7 +1,7 @@
 ---
 name: Dr. Aayushi Kadam
 image: images/team/AK.jpg
-role: Research Associate
+description: Research Associate
 group: Research Associate
 aliases:
   - Aayushi Kadam
