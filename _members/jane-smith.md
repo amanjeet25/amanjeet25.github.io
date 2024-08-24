@@ -1,20 +1,14 @@
 ---
-name: Jane Smith
-image: images/photo.jpg
+name: Dr. Filiz Koksel
+image: immages/team/Fk.jpg
 role: pi
-affiliation: University of Colorado
+affiliation: University of Manitoba
 aliases:
-  - J. Smith
-  - J Smith
+  - F. Koksel
+
 links:
-  home-page: https://janesmith.com
-  orcid: 0000-0001-8713-9213
+  home-page: https://umanitoba.ca/agricultural-food-sciences/food-and-human-nutritional-sciences/filiz-koksel
+  orcid: 0000-0002-6277-4314
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Faucibus purus in massa tempor nec feugiat nisl pretium fusce.
-Elit at imperdiet dui accumsan.
-Duis tristique sollicitudin nibh sit amet commodo nulla facilisi.
-Vitae elementum curabitur vitae nunc sed velit dignissim sodales.
-Lacinia at quis risus sed vulputate odio ut.
-Magna eget est lorem ipsum.
+
