@@ -2,7 +2,7 @@
 name: Siwen Luo
 image: images/team/SL.jpg
 description: PhD Student
-group: PhD
+role: PhD
 aliases:
   - Siwen Luo
   - S Luo
