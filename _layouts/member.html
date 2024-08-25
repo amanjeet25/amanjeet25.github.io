@@ -1,6 +1,13 @@
 ---
 layout: default
 ---
+{% assign roles = "PI,PDF,MSC" | split: "," %}
+{% assign sorted_members = site.members | sort: "role" %}
+{% for member in sorted_members %}
+  {% if roles contains member.role %}
+    <!-- Display member details -->
+  {% endif %}
+{% endfor %}
 
 {% capture floatcontent %}
 
