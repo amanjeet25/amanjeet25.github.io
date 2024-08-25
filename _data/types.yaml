@@ -6,17 +6,21 @@ pi:
   icon: fa-solid fa-microscope
   description: Principal Investigator
 
-postdoc:
+Research Associate:
   icon: fa-solid fa-glasses
-  description: Postdoctoral Researcher
+  description: Research Associate
+  
+Post Doctoral Fellow:
+  icon: fa-solid fa-glasses
+  description: Post Doctoral Fellow
 
-phd:
+PhD:
   icon: fa-solid fa-graduation-cap
   description: PhD Student
 
-undergrad:
+MSc:
   icon: fa-solid fa-user-graduate
-  description: Undergraduate Student
+  description: MSc Student
 
 programmer:
   icon: fa-solid fa-code
