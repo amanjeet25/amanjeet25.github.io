@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-{% assign roles = "PI,PDF,MSC" | split: "," %}
+{% assign roles = "pi, Research Associate, PDF, PhD, MSc" | split: "," %}
 {% assign sorted_members = site.members | sort: "role" %}
 {% for member in sorted_members %}
   {% if roles contains member.role %}
