@@ -2,7 +2,7 @@
 name: Dr. Mohammad Usman Akram
 image: images/team/MUA.jpg
 description: Post-Doctoral Fellow
-group: PDF
+role: PDF
 aliases:
   - Usman Akram
   - Mohammad Usman Akram
