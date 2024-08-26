@@ -1,6 +1,9 @@
 name: update-citations
 run-name: update citations
 
+- name: Set up environment
+  run: echo "GOOGLE_SCHOLAR_API_KEY=${{ secrets.GOOGLE_SCHOLAR_API_KEY }}" >> $GITHUB_ENV
+
 on:
   # run when called from another workflow
   workflow_call:
