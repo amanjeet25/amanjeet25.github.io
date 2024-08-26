@@ -1,0 +1,14 @@
+name: Build and Deploy
+
+on:
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Set up environment
+        run: echo "GOOGLE_SCHOLAR_API_KEY=${{ secrets.GOOGLE_SCHOLAR_API_KEY }}" >> $GITHUB_ENV
