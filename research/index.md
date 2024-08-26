@@ -13,7 +13,7 @@ Our research centers on food processing using innovative techniques. Explore our
 
 ## Highlighted
 
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
+{% include citation.html lookup="Nitrogen Gas-Assisted Extrusion for Improving the Physical Quality of Pea Protein-Enriched Corn Puffs with a Wide Range of Protein Contents" style="rich" %}
 
 {% include section.html %}
 
