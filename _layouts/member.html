@@ -2,23 +2,27 @@
 layout: default
 ---
 
-{% capture floatcontent %}
+<div style="display: flex; align-items: flex-start;">
+  
+  <!-- Left Column: Portrait and Links -->
+  <div style="margin-right: 20px;">
+    {% include portrait.html lookup=page.slug %}
+    <div style="margin-top: 10px;">
+      {% for link in page.links %}
+        {% assign key = link[0] %}
+        {% assign value = link[1] %}
+        {% include button.html type=key link=value style="bare" %}
+        <br>
+      {% endfor %}
+    </div>
+  </div>
+  
+  <!-- Right Column: Text -->
+  <div>
+    {{ content }}
+  </div>
 
-{% include portrait.html lookup=page.slug %}
-
-<div>
-  {% for link in page.links %}
-    {% assign key = link[0] %}
-    {% assign value = link[1] %}
-    {% include button.html type=key link=value style="bare" %}<br>
-  {% endfor %}
 </div>
-
-{% endcapture %}
-
-{% include float.html content=floatcontent %}
-
-{{ content }}
 
 {% assign aliases = page.aliases
   | default: page.name
@@ -37,15 +41,3 @@ layout: default
     Search for {{ page.name | default: page.title }}'s papers on the Research page
   </a>
 </p>
-
-{% capture search -%}
-  blog/?search={{ page.name }}
-{%- endcapture %}
-
-<!--
-<p class="center">
-  <a href="{{ search | relative_url }}">
-    See {{ page.name | default: page.title }}'s posts on the Blog page
-  </a>
-</p>
--->
