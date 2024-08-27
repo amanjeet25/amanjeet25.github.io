@@ -1,19 +1,6 @@
 ---
 layout: default
 ---
-{% assign roles = "pi, Research Associate, PDF, PhD, MSc" | split: "," %}
-
-{% for role in roles %}
-  {% for member in site.members %}
-    {% if member.role == role %}
-      {% capture floatcontent %}
-        {% include portrait.html lookup=member.slug %}
-        <div>{{ member.content }}</div>
-      {% endcapture %}
-      {% include float.html content=floatcontent %}
-    {% endif %}
-  {% endfor %}
-{% endfor %}
 
 {% capture floatcontent %}
 
