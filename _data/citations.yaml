@@ -13,35 +13,35 @@
   orcid: 0000-0002-6277-4314
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1002/cche.10786
-  title: 'Incorporation of intermediate wheatgrass (<i>Thinopyrum intermedium</i>)
-    into bread wheat doughs: Effects on pasting and rheological properties'
+- id: doi:10.1007/s11694-024-02568-w
+  title: Comparison of single-stage and gradual reduction milling on pulse flour quality
   authors:
-  - Susane Trevisan
+  - Kristin Choo
+  - Rani Puthukulangara Ramachandran
+  - Mohammad Nadimi
+  - Elaine Sopiwnyk
   - Filiz Koksel
-  - Buket Cetiner
-  - Vladimir P. Shamanin
-  - Inna V. Pototskaya
-  - Bayram Ozdemir
-  - Alexey I. Morgounov
-  - Hamit Koksel
-  publisher: Cereal Chemistry
-  date: '2024-04-02'
-  link: https://doi.org/gt7qr3
+  - Jitendra Paliwal
+  publisher: Journal of Food Measurement and Characterization
+  date: '2024-05-04'
+  link: https://doi.org/gt7zkz
   orcid: 0000-0002-6277-4314
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1111/ijfs.17134
-  title: "Incorporation of brewer's spent grain into plant\u2010based meat analogues:\
-    \ benefits to physical and nutritional quality"
+- id: doi:10.1007/s11947-023-03225-8
+  title: Effects of Feed Moisture Content on the Physical and Nutritional Quality
+    Attributes of Sunflower Meal-based High-Moisture Meat Analogues
   authors:
-  - Aurenice Maria Mota da Silva
-  - Mariah Almeida Lima
+  - Ravinder Singh
+  - "Amanda Gomes Almeida S\xE1"
+  - Shubham Sharma
+  - Mohammad Nadimi
+  - Jitendra Paliwal
+  - James D. House
   - Filiz Koksel
-  - Ana Carla Kawazoe Sato
-  publisher: International Journal of Food Science &amp; Technology
-  date: '2024-04-12'
-  link: https://doi.org/gt7qr4
+  publisher: Food and Bioprocess Technology
+  date: '2023-10-25'
+  link: https://doi.org/gt7zk2
   orcid: 0000-0002-6277-4314
   plugin: orcid.py
   file: orcid.yaml
@@ -73,6 +73,34 @@
   orcid: 0000-0002-6277-4314
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1111/ijfs.16593
+  title: "Effects of protein formula and extrusion cooking conditions on the techno\u2010\
+    functional properties of texturised pea proteins"
+  authors:
+  - Elyssa Chan
+  - "Argenis Rodas\u2010Gonzalez"
+  - Mehmet Tulbek
+  - Filiz Koksel
+  publisher: International Journal of Food Science &amp; Technology
+  date: '2023-07-31'
+  link: https://doi.org/gt7qr8
+  orcid: 0000-0002-6277-4314
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.ifset.2023.103557
+  title: 'Gas-assisted high-moisture extrusion of soy-based meat analogues: Impacts
+    of nitrogen pressure and cooling die temperature on density, texture and microstructure'
+  authors:
+  - Neeraj Ghanghas
+  - Mohammad Nadimi
+  - Jitendra Paliwal
+  - Filiz Koksel
+  publisher: Innovative Food Science &amp; Emerging Technologies
+  date: '2024-03-01'
+  link: https://doi.org/gt7zk3
+  orcid: 0000-0002-6277-4314
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1111/ijfs.16856
   title: "Impact of protein blend formulation and extrusion conditions on the physical\
     \ properties of texturised pea protein\u2010extended beef burgers"
@@ -88,17 +116,133 @@
   orcid: 0000-0002-6277-4314
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1111/ijfs.16593
-  title: "Effects of protein formula and extrusion cooking conditions on the techno\u2010\
-    functional properties of texturised pea proteins"
+- id: doi:10.1111/ijfs.17134
+  title: "Incorporation of brewer's spent grain into plant\u2010based meat analogues:\
+    \ benefits to physical and nutritional quality"
   authors:
-  - Elyssa Chan
-  - "Argenis Rodas\u2010Gonzalez"
-  - Mehmet Tulbek
+  - Aurenice Maria Mota da Silva
+  - Mariah Almeida Lima
   - Filiz Koksel
+  - Ana Carla Kawazoe Sato
   publisher: International Journal of Food Science &amp; Technology
-  date: '2023-07-31'
-  link: https://doi.org/gt7qr8
+  date: '2024-04-12'
+  link: https://doi.org/gt7qr4
+  orcid: 0000-0002-6277-4314
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/cche.10786
+  title: 'Incorporation of intermediate wheatgrass (<i>Thinopyrum intermedium</i>)
+    into bread wheat doughs: Effects on pasting and rheological properties'
+  authors:
+  - Susane Trevisan
+  - Filiz Koksel
+  - Buket Cetiner
+  - Vladimir P. Shamanin
+  - Inna V. Pototskaya
+  - Bayram Ozdemir
+  - Alexey I. Morgounov
+  - Hamit Koksel
+  publisher: Cereal Chemistry
+  date: '2024-04-02'
+  link: https://doi.org/gt7qr3
+  orcid: 0000-0002-6277-4314
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.jcs.2024.103880
+  title: Pilot scale air classification of flours from hulled and hull-less barley
+    for the production of protein enriched ingredients
+  authors:
+  - Amanjeet Singh
+  - Marta Izydorczyk
+  - Filiz Koksel
+  publisher: Journal of Cereal Science
+  date: '2024-05-01'
+  link: https://doi.org/gt7zk4
+  orcid: 0000-0002-6277-4314
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/B978-0-443-16017-2.00012-7
+  title: 'Plant-based meat alternatives: innovation through advanced processes and
+    ingredients'
+  authors:
+  - Ravinder Singh
+  - Aayushi Kadam
+  - Filiz Koksel
+  publisher: Handbook of Plant-Based Food and Drinks Design
+  date: '2024-01-01'
+  link: https://doi.org/gt7zk5
+  orcid: 0000-0002-6277-4314
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.tifs.2023.01.012
+  title: 'Application of physical blowing agents in extrusion cooking of protein enriched
+    snacks: Effects on product expansion, microstructure, and texture'
+  authors:
+  - Siwen Luo
+  - Filiz Koksel
+  publisher: Trends in Food Science &amp; Technology
+  date: '2023-03-01'
+  link: https://doi.org/gsbdb8
+  orcid: 0000-0002-6277-4314
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.foodres.2023.113193
+  title: 'Characterization of the mechanical properties of high-moisture meat analogues
+    using low-intensity ultrasound: Linking mechanical properties to textural and
+    nutritional quality attributes'
+  authors:
+  - R.-M. Guillermic
+  - A.J. Franczyk
+  - "S.O. Kerherv\xE9"
+  - J.D. House
+  - J.H. Page
+  - F. Koksel
+  publisher: Food Research International
+  date: '2023-11-01'
+  link: https://doi.org/gt7zk6
+  orcid: 0000-0002-6277-4314
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s11694-023-01985-7
+  title: Effects of extrusion cooking on the nutritional quality of puffed snacks
+    made from blends of barley and green lentil flours
+  authors:
+  - Xiang Li
+  - Adam Franczyk
+  - Kevser Kahraman
+  - James D. House
+  - Filiz Koksel
+  publisher: Journal of Food Measurement and Characterization
+  date: '2023-06-02'
+  link: https://doi.org/gt7qsb
+  orcid: 0000-0002-6277-4314
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.foodhyd.2022.108123
+  title: Effects of ingredient and processing conditions on the rheological properties
+    of whole wheat flour dough during breadmaking - A review
+  authors:
+  - Xinyang Sun
+  - Simiao Wu
+  - Filiz Koksel
+  - Minhao Xie
+  - Yong Fang
+  publisher: Food Hydrocolloids
+  date: '2023-02-01'
+  link: https://doi.org/gq53cm
+  orcid: 0000-0002-6277-4314
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/foods12040889
+  title: Enhancing the Techno-Functionality of Pea Flour by Air Injection-Assisted
+    Extrusion at Different Temperatures and Flour Particle Sizes
+  authors:
+  - Nasibeh Y. Sinaki
+  - Jitendra Paliwal
+  - Filiz Koksel
+  publisher: Foods
+  date: '2023-02-19'
+  link: https://doi.org/gr2sv9
   orcid: 0000-0002-6277-4314
   plugin: orcid.py
   file: orcid.yaml
@@ -116,18 +260,23 @@
   orcid: 0000-0002-6277-4314
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1007/s11694-023-01985-7
-  title: Effects of extrusion cooking on the nutritional quality of puffed snacks
-    made from blends of barley and green lentil flours
+- id: doi:10.1016/j.foodhyd.2022.108212
+  title: "The effects of cooperative fermentation by yeast and lactic acid bacteria\
+    \ on the dough rheology, retention and stabilization of gas cells in a whole wheat\
+    \ flour dough system \u2013 A review"
   authors:
-  - Xiang Li
-  - Adam Franczyk
-  - Kevser Kahraman
-  - James D. House
+  - Xinyang Sun
+  - Simiao Wu
+  - Wen Li
   - Filiz Koksel
-  publisher: Journal of Food Measurement and Characterization
-  date: '2023-06-02'
-  link: https://doi.org/gt7qsb
+  - Yifei Du
+  - Lei Sun
+  - Yong Fang
+  - Qiuhui Hu
+  - Fei Pei
+  publisher: Food Hydrocolloids
+  date: '2023-02-01'
+  link: https://doi.org/gs3qvk
   orcid: 0000-0002-6277-4314
   plugin: orcid.py
   file: orcid.yaml
@@ -164,31 +313,6 @@
   orcid: 0000-0002-6277-4314
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/j.tifs.2023.01.012
-  title: 'Application of physical blowing agents in extrusion cooking of protein enriched
-    snacks: Effects on product expansion, microstructure, and texture'
-  authors:
-  - Siwen Luo
-  - Filiz Koksel
-  publisher: Trends in Food Science &amp; Technology
-  date: '2023-03-01'
-  link: https://doi.org/gsbdb8
-  orcid: 0000-0002-6277-4314
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.3390/foods12040889
-  title: Enhancing the Techno-Functionality of Pea Flour by Air Injection-Assisted
-    Extrusion at Different Temperatures and Flour Particle Sizes
-  authors:
-  - Nasibeh Y. Sinaki
-  - Jitendra Paliwal
-  - Filiz Koksel
-  publisher: Foods
-  date: '2023-02-19'
-  link: https://doi.org/gr2sv9
-  orcid: 0000-0002-6277-4314
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.3390/foods11213447
   title: Butterfly Pea Flower as a Novel Ingredient to Produce Antioxidant-Enriched
     Yellow Pea-Based Breakfast Cereals
@@ -206,18 +330,17 @@
   orcid: 0000-0002-6277-4314
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1002/cche.10574
-  title: Physical and microstructural quality of extruded snacks made from blends
-    of barley and green lentil flours
+- id: doi:10.3390/foods11010038
+  title: 'Development of Cellular High-Protein Foods: Third-Generation Yellow Pea
+    and Red Lentil Puffed Snacks'
   authors:
-  - Xiang Li
-  - "Reine\u2010Marie Guillermic"
-  - Mohammad Nadimi
+  - Nasibeh Y. Sinaki
+  - Mustafa Tugrul Masatcioglu
   - Jitendra Paliwal
   - Filiz Koksel
-  publisher: Cereal Chemistry
-  date: '2022-06-14'
-  link: https://doi.org/gt7qsg
+  publisher: Foods
+  date: '2021-12-24'
+  link: https://doi.org/gt7qsk
   orcid: 0000-0002-6277-4314
   plugin: orcid.py
   file: orcid.yaml
@@ -251,17 +374,18 @@
   orcid: 0000-0002-6277-4314
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.3390/foods11010038
-  title: 'Development of Cellular High-Protein Foods: Third-Generation Yellow Pea
-    and Red Lentil Puffed Snacks'
+- id: doi:10.1002/cche.10574
+  title: Physical and microstructural quality of extruded snacks made from blends
+    of barley and green lentil flours
   authors:
-  - Nasibeh Y. Sinaki
-  - Mustafa Tugrul Masatcioglu
+  - Xiang Li
+  - "Reine\u2010Marie Guillermic"
+  - Mohammad Nadimi
   - Jitendra Paliwal
   - Filiz Koksel
-  publisher: Foods
-  date: '2021-12-24'
-  link: https://doi.org/gt7qsk
+  publisher: Cereal Chemistry
+  date: '2022-06-14'
+  link: https://doi.org/gt7qsg
   orcid: 0000-0002-6277-4314
   plugin: orcid.py
   file: orcid.yaml
@@ -290,17 +414,49 @@
   orcid: 0000-0002-6277-4314
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1002/cche.10347
-  title: Processing and quality aspects of bulgur from <i>Triticum durum</i>
+- id: doi:10.1016/j.foodres.2020.109996
+  title: 'X-Ray microtomography imaging of red lentil puffed snacks: Processing conditions,
+    microstructure and texture'
   authors:
-  - Andrea K. Stone
-  - Shuyang Wang
-  - Mehmet Tulbek
+  - R.-M. Guillermic
+  - E.C. Aksoy
+  - S. Aritan
+  - C. Erkinbaev
+  - J. Paliwal
+  - F. Koksel
+  publisher: Food Research International
+  date: '2021-02-01'
+  link: https://doi.org/gt7zk7
+  orcid: 0000-0002-6277-4314
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.fbp.2020.02.002
+  title: Effects of extrusion conditions and nitrogen injection on physical, mechanical,
+    and microstructural properties of red lentil puffed snacks
+  authors:
+  - Siwen Luo
+  - Elyssa Chan
+  - Mustafa Tugrul Masatcioglu
+  - Chyngyz Erkinbaev
+  - Jitendra Paliwal
+  - Filiz Koksel
+  publisher: Food and Bioproducts Processing
+  date: '2020-05-01'
+  link: https://doi.org/gt7zk8
+  orcid: 0000-0002-6277-4314
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.foodhyd.2019.05.030
+  title: Modeling the viscoelastic behavior of wheat flour dough prepared from a wide
+    range of formulations
+  authors:
+  - Xinyang Sun
   - Filiz Koksel
   - Michael T. Nickerson
-  publisher: Cereal Chemistry
-  date: '2020-09-29'
-  link: https://doi.org/grh5gf
+  - Martin G. Scanlon
+  publisher: Food Hydrocolloids
+  date: '2020-01-01'
+  link: https://doi.org/gq6m6g
   orcid: 0000-0002-6277-4314
   plugin: orcid.py
   file: orcid.yaml
@@ -316,15 +472,49 @@
   orcid: 0000-0002-6277-4314
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1002/jsfa.9964
-  title: Functional and thermal properties of yellow pea and red lentil extrudates
-    produced by nitrogen gas injection assisted extrusion cooking
+- id: doi:10.1002/cche.10347
+  title: Processing and quality aspects of bulgur from <i>Triticum durum</i>
   authors:
-  - Mustafa Tugrul Masatcioglu
+  - Andrea K. Stone
+  - Shuyang Wang
+  - Mehmet Tulbek
   - Filiz Koksel
-  publisher: Journal of the Science of Food and Agriculture
-  date: '2019-09-18'
-  link: https://doi.org/gt7qsp
+  - Michael T. Nickerson
+  publisher: Cereal Chemistry
+  date: '2020-09-29'
+  link: https://doi.org/grh5gf
+  orcid: 0000-0002-6277-4314
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.foodres.2019.108919
+  title: The effects of sodium reduction on the gas phase of bread doughs using synchrotron
+    X-ray microtomography
+  authors:
+  - Xinyang Sun
+  - Martin G. Scanlon
+  - Reine-Marie Guillermic
+  - George S. Belev
+  - M. Adam Webb
+  - Serdar Aritan
+  - Michael T. Nickerson
+  - Filiz Koksel
+  publisher: Food Research International
+  date: '2020-04-01'
+  link: https://doi.org/gqvdxn
+  orcid: 0000-0002-6277-4314
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.jcs.2020.103071
+  title: The effects of sodium reduction on the mechanical properties of doughs made
+    from flours with a range of strengths using a mixograph
+  authors:
+  - Xinyang Sun
+  - Filiz Koksel
+  - Martin G. Scanlon
+  - Michael T. Nickerson
+  publisher: Journal of Cereal Science
+  date: '2020-09-01'
+  link: https://doi.org/gt7zmf
   orcid: 0000-0002-6277-4314
   plugin: orcid.py
   file: orcid.yaml
@@ -338,6 +528,31 @@
   publisher: Journal of Food Process Engineering
   date: '2019-01-13'
   link: https://doi.org/gt7qsq
+  orcid: 0000-0002-6277-4314
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/jsfa.9964
+  title: Functional and thermal properties of yellow pea and red lentil extrudates
+    produced by nitrogen gas injection assisted extrusion cooking
+  authors:
+  - Mustafa Tugrul Masatcioglu
+  - Filiz Koksel
+  publisher: Journal of the Science of Food and Agriculture
+  date: '2019-09-18'
+  link: https://doi.org/gt7qsp
+  orcid: 0000-0002-6277-4314
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.jcs.2019.102811
+  title: Physical and functional properties of wheat flour extrudates produced by
+    nitrogen injection assisted extrusion cooking
+  authors:
+  - Xiang Li
+  - Mustafa Tugrul Masatcioglu
+  - Filiz Koksel
+  publisher: Journal of Cereal Science
+  date: '2019-09-01'
+  link: https://doi.org/gt7zmg
   orcid: 0000-0002-6277-4314
   plugin: orcid.py
   file: orcid.yaml
