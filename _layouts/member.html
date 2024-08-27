@@ -1,6 +1,30 @@
 ---
 layout: default
 ---
+layout: default
+---
+
+<div style="display: flex; flex-direction: column; align-items: center;">
+  <!-- Portrait Section -->
+  <div style="margin-bottom: 20px;">
+    {% include portrait.html lookup=page.slug %}
+  </div>
+
+  <!-- Links Section -->
+  <div style="margin-bottom: 20px;">
+    {% for link in page.links %}
+      {% assign key = link[0] %}
+      {% assign value = link[1] %}
+      {% include button.html type=key link=value style="bare" %}<br>
+    {% endfor %}
+  </div>
+
+  <!-- Content Section -->
+  <div style="width: 100%; text-align: center;">
+    {{ content }}
+  </div>
+</div>
+
 
 {% capture floatcontent %}
 
