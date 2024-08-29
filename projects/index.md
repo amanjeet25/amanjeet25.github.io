@@ -7,8 +7,8 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Explore our key projects in food science, including high moisture extrusion, low moisture meat analogues, gas-assisted extrusion, non-destructive quality tools, and dry fractionation. 
+See how we're advancing the field with these innovative techniques.
 
 {% include tags.html tags="publication, resource, website" %}
 
