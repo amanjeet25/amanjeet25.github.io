@@ -1,7 +1,8 @@
 ---
 ---
 
-# Pioneering in food extrusion to develop novel food products
+# Welcome to our lab’s website. 
+# Here, we explore innovative solutions in food science and share our latest research and projects with you.
 
 
 
@@ -26,7 +27,7 @@ Check out our latest research papers and publications here.
 
 {%
   include feature.html
-  image="images/research1.png"
+  image="images/research-paper.png"
   link="research"
   title="Our Research"
   text=text
@@ -34,7 +35,7 @@ Check out our latest research papers and publications here.
 
 {% capture text %}
 
-Item 2 Insert projects.
+Discover the innovative projects we're working on in food science.
 
 {%
   include button.html
@@ -49,7 +50,7 @@ Item 2 Insert projects.
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/research1.jpg"
   link="projects"
   title="Our Projects"
   flip=true
@@ -59,7 +60,7 @@ Item 2 Insert projects.
 
 {% capture text %}
 
-Item 3 Insert Team.
+Get to know the team behind our research and projects.
 
 {%
   include button.html
@@ -74,7 +75,7 @@ Item 3 Insert Team.
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/team.png"
   link="team"
   title="Our Team"
   text=text
