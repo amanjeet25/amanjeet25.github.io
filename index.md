@@ -11,7 +11,7 @@
 
 {% capture text %}
 
-Item 1 Insert research statement.
+Check out our latest research papers and publications here.
 
 {%
   include button.html
@@ -26,7 +26,7 @@ Item 1 Insert research statement.
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/research1.png"
   link="research"
   title="Our Research"
   text=text
