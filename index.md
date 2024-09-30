@@ -12,29 +12,6 @@
 
 {% capture text %}
 
-Check out our latest research papers and publications here.
-
-{%
-  include button.html
-  link="research"
-  text="See our publications"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/research-paper.png"
-  link="research"
-  title="Our Research"
-  text=text
-%}
-
-{% capture text %}
-
 Discover the innovative projects we're working on in food science.
 
 {%
@@ -78,5 +55,28 @@ Get to know the team behind our research and projects.
   image="images/team.png"
   link="team"
   title="Our Team"
+  text=text
+%}
+
+{% capture text %}
+
+Check out our latest research papers and publications here.
+
+{%
+  include button.html
+  link="research"
+  text="See our publications"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/research-paper.png"
+  link="research"
+  title="Our Research"
   text=text
 %}
