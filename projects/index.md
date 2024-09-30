@@ -11,7 +11,10 @@ nav:
 
 ## Current Projects
 
-### Ready-to-eat (RTE) breakfast cereals and puffed snacks
+<div style="text-align:center;">
+  ### Ready-to-eat (RTE) breakfast cereals and puffed snacks
+</div>
+
 
 {% capture text %}
 This research stream is focused on improving ready-to-eat (RTE) breakfast cereals and puffed snacks, aiming to make them healthier, more sustainable, and of higher quality. We are working to increase the fiber and protein content of these snacks, turning them into nutritious options that still taste great. To achieve this, we are exploring innovative processing techniques (e.g., gas-assisted extrusion cooking) that not only enhance nutritional value but also improve texture, a key aspect linked to the microstructure of the final product.
@@ -26,9 +29,13 @@ Sustainability is also at the core of our research. We are committed to developi
 {%
   include feature.html
   image="images/projects/Low moisture extrusion2.png"
-  headline="Experience-dependent plasticity in visual circuits"
+  image_style="height:auto; max-height:100%; width:auto;"
   text=text
 %}
+
+<div style="text-align:center;">
+  ### High moisture meat analogues
+</div>
 
 {% capture text %}
 With any perturbation to activity or experience, the probability that a neural circuit will undergo plasticity is state-dependent.  For instance, the capacity for plasticity tends to decline with age, lending support to the concept of critical periods.  We develop neural interfaces and control architectures for precisely regulating spiking to create activity states that support plasticity at the cellular, synaptic, and circuit levels.
