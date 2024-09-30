@@ -10,6 +10,7 @@ aliases:
 links:
   orcid: 0000-0001-9145-0338
   linkedin: susane-trevisan
+  url: https://susanetrevisan.com/
   email: trevisas@myumanitoba.ca 
 ---
 
