@@ -12,7 +12,7 @@ nav:
 ## Current Projects
 
 <div style="text-align:center;">
-  ### Ready-to-eat (RTE) breakfast cereals and puffed snacks
+  <strong> Ready-to-eat (RTE) breakfast cereals and puffed snacks </strong>
 </div>
 
 
@@ -34,7 +34,7 @@ Sustainability is also at the core of our research. We are committed to developi
 %}
 
 <div style="text-align:center;">
-  ### High moisture meat analogues
+  <strong> High moisture meat analogues </strong>
 </div>
 
 {% capture text %}
