@@ -1,7 +1,7 @@
 ---
 ---
 
-# Welcome to our lab’s website. 
+# Welcome to Food Pro lab’s website. 
 # Here, we explore innovative solutions in food science and share our latest research and projects with you.
 
 
@@ -50,7 +50,7 @@ Discover the innovative projects we're working on in food science.
 
 {%
   include feature.html
-  image="images/research1.jpg"
+  image="images/research1.png"
   link="projects"
   title="Our Projects"
   flip=true
