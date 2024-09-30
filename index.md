@@ -58,25 +58,4 @@ Get to know the team behind our research and projects.
   text=text
 %}
 
-{% capture text %}
 
-Check out our latest research papers and publications here.
-
-{%
-  include button.html
-  link="research"
-  text="See our publications"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/research-paper.png"
-  link="research"
-  title="Our Research"
-  text=text
-%}
