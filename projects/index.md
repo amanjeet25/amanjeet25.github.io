@@ -34,11 +34,16 @@ Sustainability is also at the core of our research. We are committed to developi
 %}
 
 <div style="text-align:center;">
-  <strong> High moisture meat analogues </strong>
+  <strong> Processing of Plant-Based Meat Alternatives  </strong>
 </div>
 
 {% capture text %}
-With any perturbation to activity or experience, the probability that a neural circuit will undergo plasticity is state-dependent.  For instance, the capacity for plasticity tends to decline with age, lending support to the concept of critical periods.  We develop neural interfaces and control architectures for precisely regulating spiking to create activity states that support plasticity at the cellular, synaptic, and circuit levels.
+We are working on creating plant-based meat alternatives that come as close as possible to the taste and texture of real meat. We use plant proteins from sources like cereals, pulses and oilseed meals transforming them through extrusion processing into fibrous, meat-like textures. These products work well as substitutes for various meat-based foods, including burgers, sausages, chicken breasts, and pork chops.
+We focus on four critical challenges in this field: taste, texture, nutrition, and sustainability. To enhance taste and texture, we are exploring pre-treatment methods like fermentation and enzymatic treatments before extrusion processing. These techniques help eliminate beany odors, reduce bitterness, and introduce umami-rich, meat-like flavors. We are also refining the production process by optimizing the extrusion processing parameters and using innovative systems like gas injection. On the nutrition side, we are focused on enhancing protein quality, increasing dietary fiber, and incorporating health-promoting bioactive components.
+Sustainability is a core value in our research, and we are committed to incorporating by-products from the food industry, such as sunflower meal, hempseed meal, flaxseed meal, spent grain, and spent yeast, into our formulations. We also collaborate with Indigenous-owned food companies to integrate underutilized and culturally important ingredients like Indigenous wild rice.
+Throughout the entire process, i.e., from raw materials and pre-treatments to extrusion and the finished product, we use various testing methods to study macro and micro-level changes. These tests include rheological analysis, assessments of techno-functional, nutritional, and textural quality, microstructural evaluation, and cooking properties. These tests help us gain deeper scientific insights and improve the quality of these products.
+Our goal is to create plant-based meat alternatives that are delicious, nutritious, and sustainable, benefiting both consumers and the environment.
+
 <br>
 
 {:.center}
@@ -47,7 +52,7 @@ With any perturbation to activity or experience, the probability that a neural c
 {%
   include feature.html
   image="images/research/closed-loop-visual-system.png"
-  headline="Neural interfaces for biasing plasticity"
+  headline="Dry fractionation"
   text=text
 %}
 
