@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Insert text here
+We are seeking graduate students and post-doctoral fellows who are motivated, dedicated, and highly ambitious. If you are interested in becoming part of a dynamic research team committed to high-quality, cutting-edge research, utilizing advanced infrastructure to foster a rigorous training environment with collaborations across industry and leading universities, all while promoting equity, diversity, and inclusion (EDI), please reach out to Dr. Koksel.
 
 {%
   include button.html
