@@ -55,7 +55,9 @@ Our goal is to create plant-based meat alternatives that are delicious, nutritio
   headline="Dry fractionation"
   text=text
 %}
-
+<div style="text-align:center;">
+  <strong> Dry fractionation for production of novel ingredients  </strong>
+</div>
 {% capture text %}
 Our lab is dedicated to advancing the development of novel plant-based ingredients through cutting-edge dry fractionation techniques, including sifting and air classification. By focusing on underutilized plant protein sources, such as cereal grains like barley, we aim to unlock the potential of these ingredients for various applications in food production. Leveraging pilot-scale dry fractionation facilities, we not only develop innovative protein ingredients but also extract functional components that provide added nutritional benefits.
 <br>
