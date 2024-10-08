@@ -58,8 +58,8 @@ Our goal is to create plant-based meat alternatives that are delicious, nutritio
 {%
   include feature.html
   image="images/research/research1.jpg"
- 
-  text=text
+  image_style="height:auto; max-height:100%; width:auto;" text=text %
+   text=text
 %}
 <div style="text-align:center;">
   <strong> Dry fractionation for production of novel ingredients  </strong>
@@ -80,6 +80,6 @@ This research opens up new possibilities for creating plant-based ingredients wi
 {%
   include feature.html
   image="images/research/research3.jpg"
-  
+  image_style="height:auto; max-height:100%; width:auto;" 
   text=text
 %}
