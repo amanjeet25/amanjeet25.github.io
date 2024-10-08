@@ -1,4 +1,4 @@
----
+  ---
 title: Our Projects
 nav:
   order: 1
@@ -31,7 +31,7 @@ Sustainability is also at the core of our research. We are committed to developi
 
 {%
   include feature.html
-  image="images/projects/Low moisture extrusion2.png"
+  image="images/projects/research2.jpg"
   image_style="height:auto; max-height:100%; width:auto;"
   text=text
 %}
@@ -57,8 +57,8 @@ Our goal is to create plant-based meat alternatives that are delicious, nutritio
 
 {%
   include feature.html
-  image="images/research/closed-loop-visual-system.png"
-  headline="Dry fractionation"
+  image="images/research/research1.jpg"
+ 
   text=text
 %}
 <div style="text-align:center;">
@@ -79,7 +79,7 @@ This research opens up new possibilities for creating plant-based ingredients wi
 
 {%
   include feature.html
-  image="images/research/preclinical-amblyopia-research.png"
-  headline="Plasticity-based interventions for visual impairment"
+  image="images/research/research3.jpg"
+  
   text=text
 %}
