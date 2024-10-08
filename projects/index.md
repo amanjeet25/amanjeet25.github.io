@@ -5,11 +5,7 @@ nav:
   tooltip: 
 ---
 
-# {% include icon.html icon="fa-solid fa-microscope" %}Research
-
-{% include section.html %}
-
-## Current Projects
+# {% include icon.html icon="fa-solid fa-microscope" %} Current Projects
 
 <div style="text-align:center;">
   <strong> Ready-to-eat (RTE) breakfast cereals and puffed snacks </strong>
