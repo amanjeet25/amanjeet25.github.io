@@ -49,10 +49,6 @@ Our goal is to create plant-based meat alternatives that are delicious, nutritio
 {:.center}
 {% endcapture %}
 
-<div style="text-align:center;">
-  <strong> Dry fractionation for production of novel ingredients
-</div>
-
 {%
   include feature.html
   image="images/research/closed-loop-visual-system.png"
@@ -70,3 +66,9 @@ This research opens up new possibilities for creating plant-based ingredients wi
 {:.center}
 {% endcapture %}
 
+{%
+  include feature.html
+  image="images/research/preclinical-amblyopia-research.png"
+  headline="Plasticity-based interventions for visual impairment"
+  text=text
+%}
