@@ -62,12 +62,12 @@ Discover the innovative projects we're working on in food science.
 
 {% capture text %}
 
-Have a look at our publications!
+Get to know the team behind our research and projects.
 
 {%
   include button.html
-  link="research"
-  text="Browse our publications"
+  link="team"
+  text="Meet our team"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -77,10 +77,8 @@ Have a look at our publications!
 
 {%
   include feature.html
-  image="images/research.png"
-  link="research"
-  title="Our research"
+  image="images/team.png"
+  link="team"
+  title="Our Team"
   text=text
 %}
-
-
