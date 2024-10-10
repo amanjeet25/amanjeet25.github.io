@@ -44,7 +44,7 @@ Discover the innovative projects we're working on in food science.
   link="projects"
   text="Browse our projects"
   icon="fa-solid fa-arrow-right"
-  flip=true
+  
   style="bare"
 %}
 
@@ -55,7 +55,7 @@ Discover the innovative projects we're working on in food science.
   image="images/research1.png"
   link="projects"
   title="Our Projects"
-  flip=true
+
   style="bare"
   text=text
 %}
@@ -80,5 +80,6 @@ Get to know the team behind our research and projects.
   image="images/team.png"
   link="team"
   title="Our Team"
+  flip=true
   text=text
 %}
