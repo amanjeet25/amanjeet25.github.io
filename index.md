@@ -37,12 +37,12 @@ Discover the innovative projects we're working on in food science.
 
 {% capture text %}
 
-Discover the innovative projects we're working on in food science.
+Explore our published research.
 
 {%
   include button.html
-  link="projects"
-  text="Browse our projects"
+  link="research"
+  text="Browse our publications"
   icon="fa-solid fa-arrow-right"
   
   style="bare"
@@ -52,9 +52,9 @@ Discover the innovative projects we're working on in food science.
 
 {%
   include feature.html
-  image="images/research1.png"
-  link="projects"
-  title="Our Projects"
+  image="images/research.png"
+  link="research"
+  title="Our Research"
 
   style="bare"
   text=text
