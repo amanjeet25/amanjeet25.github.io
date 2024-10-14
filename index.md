@@ -48,6 +48,7 @@ Explore our published research.
   style="bare"
 %}
 
+
 {% endcapture %}
 
 {%
