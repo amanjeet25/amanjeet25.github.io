@@ -27,7 +27,7 @@ Discover the innovative projects we're working on in food science.
 
 {%
   include feature.html
-  image="images/research1.png"
+  image="images/ourresearch.jpg"
   link="projects"
   title="Our Projects"
   flip=true
