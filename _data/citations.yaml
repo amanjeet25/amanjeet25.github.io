@@ -1,5 +1,46 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1007/s11130-024-01281-9
+  title: Impact of Pea Protein Isolate Enrichment on the Nutritional, Functional,
+    and Glycemic Properties of Tarhana
+  authors:
+  - Aayushi Kadam
+  - Kubra Ozkan
+  - Peifan Du
+  - Hamit Koksel
+  - Osman Sagdic
+  - Filiz Koksel
+  publisher: Plant Foods for Human Nutrition
+  date: '2025-01-06'
+  link: https://doi.org/g8zjsp
+  orcid: 0000-0002-6277-4314
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.foodres.2024.115349
+  title: 'Real-time thermal imaging of expansion dynamics during extrusion of protein-fortified
+    snacks: Effects of nitrogen gas and protein concentration'
+  authors:
+  - Siwen Luo
+  - Filiz Koksel
+  publisher: Food Research International
+  date: '2025-01-01'
+  link: https://doi.org/g8srjj
+  orcid: 0000-0002-6277-4314
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/cche.10863
+  title: "Quality of resistant starch\u2010enriched breadcrumbs extrudates"
+  authors:
+  - Hamit Koksel
+  - Markus Nail Samray
+  - Tugrul M. Masatcioglu
+  - Filiz Koksel
+  publisher: Cereal Chemistry
+  date: '2024-12-30'
+  link: https://doi.org/g8xr6f
+  orcid: 0000-0002-6277-4314
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.3390/foods13152411
   title: Nitrogen Gas-Assisted Extrusion for Improving the Physical Quality of Pea
     Protein-Enriched Corn Puffs with a Wide Range of Protein Contents
