@@ -16,6 +16,22 @@
   orcid: 0000-0002-6277-4314
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.3390/foods14040547
+  title: Effect of Extrusion Conditions on the Characteristics of Texturized Vegetable
+    Protein from a Faba Bean Protein Mix and Its Application in Vegan and Hybrid Burgers
+  authors:
+  - Maria Guerrero
+  - Andrea K. Stone
+  - Ravinder Singh
+  - Yuk Chu Lui
+  - Filiz Koksel
+  - Michael T. Nickerson
+  publisher: Foods
+  date: '2025-01-01'
+  link: https://doi.org/g84bz3
+  orcid: 0000-0002-6277-4314
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1016/j.foodres.2024.115349
   title: 'Real-time thermal imaging of expansion dynamics during extrusion of protein-fortified
     snacks: Effects of nitrogen gas and protein concentration'
