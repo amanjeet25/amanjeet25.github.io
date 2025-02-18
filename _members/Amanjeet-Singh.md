@@ -1,4 +1,3 @@
-
 ---
 name: Amanjeet Singh
 image: images/team/AS.jpg
