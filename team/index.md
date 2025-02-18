@@ -17,9 +17,9 @@ nav:
 {% include list.html data="members" component="portrait" filters="role: PhD" %}
 {% include list.html data="members" component="portrait" filters="role: MSc" %}
 {% include list.html data="members" component="portrait" filters="role: UG" %}
-{% include list.html data="members" component="portrait" 
-  filters="role: ^(?!pi$|Research Associate$|Research Assistant$|PhD$|MSc$|UG$)" %}
-
+{% assign excluded_roles = "pi,Research Associate,Research Assistant,PhD,MSc,UG" | split: "," %}
+{% assign remaining_members = site.data.members | where_exp: "member", "excluded_roles contains member.role == false" %}
+{% include list.html data=remaining_members component="portrait" %}
 {% include section.html background="images/background.jpg" dark=true %}
 
 
