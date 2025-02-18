@@ -17,7 +17,8 @@ nav:
 {% include list.html data="members" component="portrait" filters="role: PhD" %}
 {% include list.html data="members" component="portrait" filters="role: MSc" %}
 {% include list.html data="members" component="portrait" filters="role: UG" %}
-{% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" %}
+{% include list.html data="members" component="portrait" 
+  filters="role: ^(?!pi$|Research Associate$|Research Assistant$|PhD$|MSc$|UG$)" %}
 
 {% include section.html background="images/background.jpg" dark=true %}
 
