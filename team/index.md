@@ -12,6 +12,11 @@ nav:
 {% include section.html %}
 
 {% include list.html data="members" component="portrait" filters="role: pi" %}
+{% include list.html data="members" component="portrait" filters="role: Research Associate" %}
+{% include list.html data="members" component="portrait" filters="role: Research Assistant" %}
+{% include list.html data="members" component="portrait" filters="role: PhD" %}
+{% include list.html data="members" component="portrait" filters="role: MSc" %}
+{% include list.html data="members" component="portrait" filters="role: UG" %}
 {% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" %}
 
 {% include section.html background="images/background.jpg" dark=true %}
