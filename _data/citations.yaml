@@ -32,6 +32,20 @@
   orcid: 0000-0002-6277-4314
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1007/s11947-024-03549-z
+  title: High Moisture Extrusion Texturization of Air-Classified Barley Protein for
+    the Production of Novel Plant-Based Meat Analogues
+  authors:
+  - Amanjeet Singh
+  - Mehmet C. Tulbek
+  - Marta Izydorczyk
+  - Filiz Koksel
+  publisher: Food and Bioprocess Technology
+  date: '2024-08-26'
+  link: https://doi.org/g855c7
+  orcid: 0000-0002-6277-4314
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1016/j.foodres.2024.115349
   title: 'Real-time thermal imaging of expansion dynamics during extrusion of protein-fortified
     snacks: Effects of nitrogen gas and protein concentration'
