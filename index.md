@@ -1,8 +1,7 @@
 ---
 ---
 
-# Welcome to Food Pro lab’s website. 
-# Here, we explore innovative solutions in food science and share our latest research and projects with you.
+# Exploring innovative food science solutions and sharing our latest research with the world.
 
 
 {% include section.html %}
