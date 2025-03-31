@@ -16,6 +16,19 @@
   orcid: 0000-0002-6277-4314
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1002/cche.10863
+  title: "Quality of resistant starch\u2010enriched breadcrumbs extrudates"
+  authors:
+  - Hamit Koksel
+  - Markus Nail Samray
+  - Tugrul M. Masatcioglu
+  - Filiz Koksel
+  publisher: Cereal Chemistry
+  date: '2024-12-30'
+  link: https://doi.org/g8xr6f
+  orcid: 0000-0002-6277-4314
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.3390/foods14040547
   title: Effect of Extrusion Conditions on the Characteristics of Texturized Vegetable
     Protein from a Faba Bean Protein Mix and Its Application in Vegan and Hybrid Burgers
@@ -32,6 +45,20 @@
   orcid: 0000-0002-6277-4314
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1007/s11947-024-03549-z
+  title: High Moisture Extrusion Texturization of Air-Classified Barley Protein for
+    the Production of Novel Plant-Based Meat Analogues
+  authors:
+  - Amanjeet Singh
+  - Mehmet C. Tulbek
+  - Marta Izydorczyk
+  - Filiz Koksel
+  publisher: Food and Bioprocess Technology
+  date: '2024-08-26'
+  link: https://doi.org/g855c7
+  orcid: 0000-0002-6277-4314
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1016/j.foodres.2024.115349
   title: 'Real-time thermal imaging of expansion dynamics during extrusion of protein-fortified
     snacks: Effects of nitrogen gas and protein concentration'
@@ -41,19 +68,6 @@
   publisher: Food Research International
   date: '2025-01-01'
   link: https://doi.org/g8srjj
-  orcid: 0000-0002-6277-4314
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1002/cche.10863
-  title: "Quality of resistant starch\u2010enriched breadcrumbs extrudates"
-  authors:
-  - Hamit Koksel
-  - Markus Nail Samray
-  - Tugrul M. Masatcioglu
-  - Filiz Koksel
-  publisher: Cereal Chemistry
-  date: '2024-12-30'
-  link: https://doi.org/g8xr6f
   orcid: 0000-0002-6277-4314
   plugin: orcid.py
   file: orcid.yaml
