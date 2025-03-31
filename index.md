@@ -5,7 +5,6 @@
 # Here, we explore innovative solutions in food science and share our latest research and projects with you.
 
 
-
 {% include section.html %}
 
 ## Highlights
@@ -44,10 +43,8 @@ Explore our published research.
   link="research"
   text="Browse our publications"
   icon="fa-solid fa-arrow-right"
-  
   style="bare"
 %}
-
 
 {% endcapture %}
 
@@ -56,7 +53,6 @@ Explore our published research.
   image="images/ourresearch.jpg"
   link="research"
   title="Our Research"
-
   style="bare"
   text=text
 %}
@@ -84,3 +80,7 @@ Get to know the team behind our research and projects.
   flip=true
   text=text
 %}
+
+## FK's Video
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_es-MiywWMI" frameborder="0" allowfullscreen></iframe>
