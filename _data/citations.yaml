@@ -1,5 +1,128 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1016/j.jfoodeng.2026.113023
+  title: Low-intensity ultrasound as a tool for assessing the mechanical properties
+    of pea protein-based high-moisture meat analogues produced by nitrogen gas-assisted
+    extrusion
+  authors:
+  - I. Rangira
+  - S. Luo
+  - R.-M. Guillermic
+  - J. Paliwal
+  - J.H. Page
+  - F. Koksel
+  publisher: Journal of Food Engineering
+  date: '2026-07-01'
+  link: https://doi.org/hbpjrq
+  orcid: 0000-0002-6277-4314
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/sfp2.70072
+  title: "Fermentation and Enzymatic Pre\u2010Treatments to Modulate Sensory Properties\
+    \ of Extruded Plant\u2010Based\_Meat Alternatives"
+  authors:
+  - Ravinder Singh
+  - Michel Aliani
+  - Warren Blunt
+  - Filiz Koksel
+  publisher: Sustainable Food Proteins
+  date: '2026-05-06'
+  link: https://doi.org/hb3fkt
+  orcid: 0000-0002-6277-4314
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/acs.jafc.5c10733
+  title: "Molecular Insights into Soy Protein\u2013Lupin Flour Meat Analogues through\
+    \ FTIR Spectrochemical Analysis"
+  authors:
+  - Aayushi Kadam
+  - Matias Rodriguez Elhordoy
+  - Daniel Vazquez
+  - Alejandra Medrano
+  - Kathleen M. Gough
+  - Filiz Koksel
+  publisher: Journal of Agricultural and Food Chemistry
+  date: '2026-02-05'
+  link: https://doi.org/hbnzpg
+  orcid: 0000-0002-6277-4314
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/star.70158
+  title: Boosting Resistant Starch Type 3 in Amylotype Corn Starches via Combined
+    Debranching and Extrusion Treatments
+  authors:
+  - Hamit Koksel
+  - Mustafa Tugrul Masatcioglu
+  - Zeynep Sumer
+  - Filiz Koksel
+  publisher: "Starch - St\xE4rke"
+  date: '2026-01-01'
+  link: https://doi.org/hbkdh9
+  orcid: 0000-0002-6277-4314
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.fbio.2025.107688
+  title: 'Transforming traditional tarhana into a functional food: Impact of pulse
+    flour substitution on nutritional and rheological properties'
+  authors:
+  - Aayushi Kadam
+  - Kubra Ozkan
+  - Susane Trevisan
+  - Linh Le
+  - Peifan Du
+  - Osman Sagdic
+  - Hamit Koksel
+  - Filiz Koksel
+  publisher: Food Bioscience
+  date: '2025-11-01'
+  link: https://doi.org/g95wqk
+  orcid: 0000-0002-6277-4314
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/foods14162882
+  title: Adding Value to Brewery Industry By-Products as Novel Ingredients in Non-Alcoholic
+    Malt Beverage Applications
+  authors:
+  - Muhammad Usman Akram
+  - Helen Oluwaseun Agunbiade
+  - Deepak Kadam
+  - Rotimi Emmanuel Aluko
+  - Filiz Koksel
+  publisher: Foods
+  date: '2025-08-20'
+  link: https://doi.org/g9x39v
+  orcid: 0000-0002-6277-4314
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/1750-3841.70407
+  title: "Exploring the Potential of Lupin (\n                    <i>Lupinus angustifolius</i>\n\
+    \                    ) Flour\u2010Based Ingredients in Developing High Moisture\
+    \ Meat Analogues"
+  authors:
+  - Matias Rodriguez Elhordoy
+  - Aayushi Kadam
+  - Daniel Vazquez
+  - Alejandra Medrano
+  - Filiz Koksel
+  publisher: Journal of Food Science
+  date: '2025-07-01'
+  link: https://doi.org/g9trxg
+  orcid: 0000-0002-6277-4314
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/1541-4337.70185
+  title: "Extrusion of Oilseed\u2010Based Ingredients: Unlocking New Potential for\
+    \ Sustainable Protein Solutions"
+  authors:
+  - Aayushi Kadam
+  - Martin G. Scanlon
+  - Filiz Koksel
+  publisher: Comprehensive Reviews in Food Science and Food Safety
+  date: '2025-05-01'
+  link: https://doi.org/g9h5kr
+  orcid: 0000-0002-6277-4314
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1007/s11130-024-01281-9
   title: Impact of Pea Protein Isolate Enrichment on the Nutritional, Functional,
     and Glycemic Properties of Tarhana
@@ -40,7 +163,7 @@
   - Filiz Koksel
   - Michael T. Nickerson
   publisher: Foods
-  date: '2025-01-01'
+  date: '2025-02-07'
   link: https://doi.org/g84bz3
   orcid: 0000-0002-6277-4314
   plugin: orcid.py
